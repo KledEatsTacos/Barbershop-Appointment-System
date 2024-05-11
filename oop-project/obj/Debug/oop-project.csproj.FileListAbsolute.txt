@@ -1,0 +1,11 @@
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\bin\Debug\oop-project.exe.config
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\bin\Debug\oop-project.exe
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\bin\Debug\oop-project.pdb
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\obj\Debug\oop-project.csproj.AssemblyReference.cache
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\obj\Debug\oop_project.Form1.resources
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\obj\Debug\oop_project.Properties.Resources.resources
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\obj\Debug\oop-project.csproj.GenerateResource.cache
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\obj\Debug\oop-project.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\obj\Debug\oop-project.exe
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\obj\Debug\oop-project.pdb
+C:\Users\musta\Desktop\Projects\oop-project\oop-project\obj\Debug\oop_project.AppointmentForm.resources
